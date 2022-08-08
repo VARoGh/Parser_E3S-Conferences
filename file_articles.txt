@@ -1,0 +1,32 @@
+1   ['Elhem Ghorbel', 'Mohammed Nouali'] Characterization of tunnel excavated earth-based mortars for rammed earth repair ('https://doi.org/10.1051/e3sconf/202235301001', 'https://www.e3s-conferences.org/articles/e3sconf/pdf/2022/20/e3sconf_evf2021_01001.pdf') 
+
+2   ['Labouda Ba', 'Ikram El Abbassi', 'Tien-Tung Ngo', 'Prosper Pliya', 'Cheikh Sidi Ethmane Kane', 'A-Moumen Darcherif', 'Mamoudou Ndongo'] Investigation of the length and percentage fiber influence of Typha Australis on biosourced composites ('https://doi.org/10.1051/e3sconf/202235301002', 'https://www.e3s-conferences.org/articles/e3sconf/pdf/2022/20/e3sconf_evf2021_01002.pdf') 
+
+3   ['Salma Kouzzi', 'Mohammed El Ganaoui', 'Abdelhamid Kheiri', 'Abdelmajid El Bouardi'] Local materials, between regional diversity and energy performance to build efficient buildings in a transborder context (Morocco-Spain) ('https://doi.org/10.1051/e3sconf/202235301003', 'https://www.e3s-conferences.org/articles/e3sconf/pdf/2022/20/e3sconf_evf2021_01003.pdf') 
+
+4   ['Abdelhak Kaci', 'Samir Hamaci', 'Ikram Elabassi', 'Rachid Chelouah'] Contributions of Information and communication technologies to industrialization of additive manufacturing ('https://doi.org/10.1051/e3sconf/202235301004', 'https://www.e3s-conferences.org/articles/e3sconf/pdf/2022/20/e3sconf_evf2021_01004.pdf') 
+
+5   ['Vandana Pusalkar', 'Vimala Swamy', 'Anand Shivapur'] Development of Blue-green infrastructure framework to restore nallahs (dirty drains) to nadis (streams), in India ('https://doi.org/10.1051/e3sconf/202235301005', 'https://www.e3s-conferences.org/articles/e3sconf/pdf/2022/20/e3sconf_evf2021_01005.pdf') 
+
+6   ['Mourad Lazri', 'Fethi Ouallouche', 'Karim Labadi', 'Soltane Ameur'] Extreme Learning Machine versus Multilayer perceptron for rainfall estimation from MSG Data ('https://doi.org/10.1051/e3sconf/202235301006', 'https://www.e3s-conferences.org/articles/e3sconf/pdf/2022/20/e3sconf_evf2021_01006.pdf') 
+
+7   ['Fatma-Zohra Hadjaidji', 'Djamel Boukhetala', 'Jean-Pierre Barbot'] Optimized Fractional Order Based Droop Control with Improving the Flexibility of a Microgrid ('https://doi.org/10.1051/e3sconf/202235302001', 'https://www.e3s-conferences.org/articles/e3sconf/pdf/2022/20/e3sconf_evf2021_02001.pdf') 
+
+8   ['Meryem Meliani', 'Abdellah El Barkany', 'Ikram El Abbassi', 'Rafik Absi', 'Morad Mahmoudi'] Energy Management of a Fuzzy Control System in a Microgrid ('https://doi.org/10.1051/e3sconf/202235302002', 'https://www.e3s-conferences.org/articles/e3sconf/pdf/2022/20/e3sconf_evf2021_02002.pdf') 
+
+9   ['Fatima Abdelaziz', 'Zin-Eddine Azzouz', 'Abdelhafid Omari'] Simple FCS-MPC Method for Reducing Common-Mode Voltage in a Three-Phase Two-Level Voltage Source Inverter ('https://doi.org/10.1051/e3sconf/202235302003', 'https://www.e3s-conferences.org/articles/e3sconf/pdf/2022/20/e3sconf_evf2021_02003.pdf') 
+
+10   ['Jean Welako', 'Grâce N’cho', 'Arsène Marta', 'Karim Labadi', 'Rafik Absi', 'Kamel Boudjema'] Energy optimization and predictive maintenance of an asphalt plant: A case study ('https://doi.org/10.1051/e3sconf/202235302004', 'https://www.e3s-conferences.org/articles/e3sconf/pdf/2022/20/e3sconf_evf2021_02004.pdf') 
+
+11   ['Hélène Payet-Taille', 'Stéphane Marchandon', 'Rafik Absi'] Friction factor from velocity profiles in smooth turbulent channel flows ('https://doi.org/10.1051/e3sconf/202235302005', 'https://www.e3s-conferences.org/articles/e3sconf/pdf/2022/20/e3sconf_evf2021_02005.pdf') 
+
+12   ['Bhagat S', 'Archana C', 'Virendra Talele', 'Khade K', 'Budukh A', 'Bhosale A', 'Mathew VK'] Simulation of Li-ion Battery using MATLAB-Simulink for Charging and Discharging ('https://doi.org/10.1051/e3sconf/202235303001', 'https://www.e3s-conferences.org/articles/e3sconf/pdf/2022/20/e3sconf_evf2021_03001.pdf') 
+
+13   ['Kishor R', 'Archana C', 'Virendra Talele', 'Joshi R', 'Dixit P', 'S S Rathore', 'Mathew V K'] Algorithm for Lane Detection Using Python ('https://doi.org/10.1051/e3sconf/202235303002', 'https://www.e3s-conferences.org/articles/e3sconf/pdf/2022/20/e3sconf_evf2021_03002.pdf') 
+
+14   ['Chems Eddine Boudjedir', 'Djamel Boukhetala', 'Mohamed Bouri'] A comparative study between feedforward control and iterative learning control for trajectory tracking of Delta robot ('https://doi.org/10.1051/e3sconf/202235303003', 'https://www.e3s-conferences.org/articles/e3sconf/pdf/2022/20/e3sconf_evf2021_03003.pdf') 
+
+15   ['Olena Kaikova', 'Vagan Terziyan', 'Timo Tiihonen', 'Mariia Golovianko', 'Svitlana Gryshko', 'Liudmyla Titova'] Hybrid Threats against Industry 4.0: Adversarial Training of Resilience ('https://doi.org/10.1051/e3sconf/202235303004', 'https://www.e3s-conferences.org/articles/e3sconf/pdf/2022/20/e3sconf_evf2021_03004.pdf') 
+
+16   ['Penghui Yang', 'Rong Wang', 'Hanguang Fu', 'Rafik Absi', 'Rachid Bennacer', 'A.-Moumen Darcherif'] Current Status of Carbidic Austempered Ductile Iron ('https://doi.org/10.1051/e3sconf/202235303005', 'https://www.e3s-conferences.org/articles/e3sconf/pdf/2022/20/e3sconf_evf2021_03005.pdf') 
+
