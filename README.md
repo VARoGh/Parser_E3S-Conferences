@@ -7,6 +7,6 @@
 
 В файле Download_E3S_articles.py - реализована возможность сохранения выходных данных статей в формате txt или excel, а также загрузка статей на выбор пользователя.
 
-В программе используются модули time, requests, urllib, BeautifulSoup, xlwt, sqlite3.
+В программе используются модули time, requests, urllib, BeautifulSoup, xlwt, sqlite3, random.
 
 Результаты парсинга сайта сборника статей E3S представлены в файлах articles.db, file_articles.txt и Results2022.xls.
