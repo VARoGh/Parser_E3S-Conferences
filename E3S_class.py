@@ -4,7 +4,6 @@ from urllib.request import urlopen
 from bs4 import BeautifulSoup
 import xlwt
 
-
 class Parser:
     def __init__(self, url):
         self.url = url
@@ -69,6 +68,7 @@ class Parser:
         wb.save('Results2022.xls')
         print('Запись в файл Excel прошла успешно!')
 
+
 def main():
     a = Parser(r'https://www.e3s-conferences.org/articles/e3sconf/abs/2022/20/contents/contents.html')
     lst = a.get_articles()
@@ -77,7 +77,6 @@ def main():
     a.write_to_txt()
     a.download_to_file()
 
+
 if __name__ == '__main__':
     main()
-
-
